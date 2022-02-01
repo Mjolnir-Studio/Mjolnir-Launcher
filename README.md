@@ -9,7 +9,7 @@ Mjolnir Launcher 是一個配合反作弊插件的 Minecraft 啟動器
 
 ## 支援平台
 
-Windows , Macos(不支援), Linux(不支援)
+Windows(支援), Macos(不支援), Linux(不支援)
 
 ## 需要支付任何費用嗎?
 
