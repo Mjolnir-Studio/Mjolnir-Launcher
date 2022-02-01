@@ -1,7 +1,7 @@
 # Mjolnir Launcher
 
 - 繁體中文 (目前語言)
-- [English](https://github.com/AntiCheatHammer/Mjolnir-Launcher/blob/main/README-eng.md)
+- [English](https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/README-eng.md)
 
 Mjolnir Launcher 是一個配合反作弊插件的 Minecraft 啟動器
 
