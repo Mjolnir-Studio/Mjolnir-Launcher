@@ -5,7 +5,7 @@
 
 Mjolnir Launcher 是一個配合反作弊插件的 Minecraft 啟動器
 
-功能: 反作弊系統 AntiCheatHammer 也是我們團隊的名稱
+功能: 反作弊系統 AntiCheatHammer
 
 ## 支援平台
 
