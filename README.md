@@ -1,5 +1,7 @@
 # Mjolnir Launcher
 
+Tip: If you need the latest documentation, please try to read the traditional Chinese documentation, which will be updated more often.
+
 - 繁體中文 (目前語言)
 - [English](https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/README-eng.md)
 
@@ -51,7 +53,7 @@ Tips: 本啟動器不支援 Mojang 帳號(Mjolnir 團隊建議你升級(遷移)�
 
 ## 為什麼不支援 Mojang 帳號登入?
 
-Mjolnir 團隊在研究 Mojang 登入的時候，發現帳號在登入的階段比照 Microsoft 帳號登入還要更危險(建議尚未轉移到 Microsoft 的老玩家趕快轉移，避免被魯邦三世盜走了)
+Mjolnir 團隊在研究 Mojang 帳號登入的時候，發現帳號在登入的階段比照 Microsoft 帳號登入還要更危險(建議尚未轉移到 Microsoft 的老玩家趕快轉移，避免被魯邦三世盜走了)
 
 ## 我有 github 帳號 我想提出問題或是建議
 
@@ -59,7 +61,7 @@ Mjolnir 團隊在研究 Mojang 登入的時候，發現帳號在登入的階段�
 
 你也可以到我們的 Discord 上面 建立 Ticket 提出你的問題 bug 或是 建議 喔!
 
-## 會支援那些語言?
+## Mjolnir Launcher會支援那些語言?
 
 目前暫定僅支援兩大系語言 English 與 Chinese(traditional)
 
