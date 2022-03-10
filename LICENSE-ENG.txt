@@ -1,1 +1,44 @@
+                          《Software License Terms》and《User Installation and Use Statement》
+                                       English US(USA-United States of America)
 
+                                    Copyright 2022 Mjolnir team. All Rights Reserved.
+
+If you need Chinese(Traditional) license please refer to https://github.com/Minecraft-Mjolnir/MjolnirLauncher
+or https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/LICENSE.txt
+
+First,We really thank you for installing and using the Mjolnir Launcher game launcher (hereinafter referred to as the "software") developed by our Mjolnir team (hereinafter referred to as the "team").
+
+Again statement, if you are using in a non-Republic of China area, please use this software in accordance with the laws of the place where you live!
+Tips: Republic of China(Taiwan) / People's Republic of China(China)
+
+The following describes the software license terms and user installation and use statement, please read carefully to avoid disputes.
+
+若您有任一條項目不同意請直接取消安裝程序，並且請已安裝的使用者解除安裝本軟體。
+If you do not agree with any item, please cancel the installation program directly, and ask the installed users to uninstall the software.
+
+Next, in《Software License Terms》and《User Installation and Use Statement》, users who are about to be installed will be informed in the most minimalist way.
+
+                                                   Software License Terms
+
+  In order to protect the code of this software, if the user violates the software license terms and conditions, the team will prohibit your computer and network location or your game account from continuing to use this software.
+  The team also inherits Mojang's user license agreement (if the user violates the Mojang user license agreement, it is also equivalent to violating the license terms of this software).
+
+
+                                             User installation and use statement
+General：
+    1.The users who use this software shall not violate the user license agreement stipulated by Mojang, and the development team of this software shall also be the same.
+Rules：
+    1.We only provide you with the installation of this software and the function of running the game.
+    2.Do not use any reverse engineering to extract the source code of this software (the same is true for unpacking the asar file).
+    3.It is forbidden to tamper, add code not provided by the team, and disseminate the original code not provided by the team to third parties or share it on the Internet.
+    4.Some screenshots of the code contained in the error window displayed due to a programming error do not violate the prohibitions described in the preceding two items.
+    5.If an error message is report and it turns out to be a bug, the user will be assigned a special ID group if they report this issue on Mjolnir Discord.
+    6.This software can only be downloaded at https://github.com/Minecraft-Mjolnir and https://ach.yomisana.xyz/, please do not download this software claimed by other unknown sources.
+    7.This software will access your hard disk location [Note 1], your computer information [Note 2] and your digital account information [Note 3].
+    8.This software does not charge any fees to users. However, if you do not purchase the original license of the game from Mojang AB, you will not be able to use any functions of this software.
+    9.If non special unless otherwise specified, the final terms shall be subject to the matters stated in https://github.com/Minecraft-Mjolnir/MjolnirLauncher.
+
+
+Note 1: Software storage space, software data cache space
+Note 2: Computer name, computer operating system architecture, computer system ID, network location
+Note 3: Digital account (Microsoft account), Mojang game ID
