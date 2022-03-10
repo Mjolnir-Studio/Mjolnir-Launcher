@@ -4,7 +4,7 @@
                                     Copyright 2022 Mjolnir team. All Rights Reserved.
 
 If you need English license please refer to https://github.com/Minecraft-Mjolnir/MjolnirLauncher
-or https://ach.yomisana.xyz/license
+or https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/LICENSE-ENG.txt
 
 首先，我們很感謝你安裝使用我們 Mjolnir 團隊(下稱本團隊)所開發的 Mjolnir Launcher 遊戲啟動程式(下稱本軟體)。
 
