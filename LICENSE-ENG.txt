@@ -9,7 +9,6 @@ or https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/LICENSE.txt
 First,We really thank you for installing and using the Mjolnir Launcher game launcher (hereinafter referred to as the "software") developed by our Mjolnir team (hereinafter referred to as the "team").
 
 Again statement, if you are using in a non-Republic of China area, please use this software in accordance with the laws of the place where you live!
-Tips: Republic of China(Taiwan) / People's Republic of China(China)
 
 The following describes the software license terms and user installation and use statement, please read carefully to avoid disputes.
 
