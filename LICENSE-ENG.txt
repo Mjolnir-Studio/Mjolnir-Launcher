@@ -29,7 +29,7 @@ Rules：
     1.We only provide you with the installation of this software and the function of running the game.
     2.Do not use any reverse engineering to extract the source code of this software (the same is true for unpacking the asar file).
     3.It is forbidden to tamper, add code not provided by the team, and disseminate the original code not provided by the team to third parties or share it on the Internet.
-    4.Some screenshots of the code contained in the error window displayed due to a programming error do not violate the prohibitions described in the preceding two items.
+    4.Some screenshots of the code contained in the error window displayed due to a programming error do not violate the prohibitions described in the preceding two terms.
     5.If an error message is report and it turns out to be a bug, the user will be assigned a special ID group if they report this issue on Mjolnir Discord.
     6.This software can only be downloaded at https://github.com/Minecraft-Mjolnir and https://ach.yomisana.xyz/, please do not download this software claimed by other unknown sources.
     7.This software will access your hard disk location [Note 1], your computer information [Note 2] and your digital account information [Note 3].
