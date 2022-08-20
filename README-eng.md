@@ -1,4 +1,8 @@
 # MjolnirLauncher
+[![Releases Download Count](https://img.shields.io/github/downloads/Mjolnir-Studio/Mjolnir-Launcher/total.png?&style=for-the-badge&color=Green&label=Downloads)](https://github.com/Mjolnir-Studio/Mjolnir-Launcher/releases/latest)
+[![Releases version](https://img.shields.io/github/v/release/Mjolnir-Studio/Mjolnir-Launcher.png?&style=for-the-badge&color=Green&label=releases)](https://github.com/Mjolnir-Studio/Mjolnir-Launcher/releases/latest)
+
+[official website](https://mjolnir.yomisana.xyz/)
 
 - [繁體中文](https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/README.md)
 - English (Current Language)
@@ -7,7 +11,7 @@ Mjolnir Launcher is a Minecraft launcher that works with the Manage Server plugi
 
 ## Supported Platforms
 
-Windows
+``Windows & macOS``
 
 ## Do I need to pay any fees?
 
@@ -29,6 +33,5 @@ You can also go to our Discord to create a ticket to raise your questions, bugs 
 
 ## Which languages will Mjolnir Launcher support?
 
-Currently, only two major languages are supported: English and Chinese (traditional)
+Currently are support: English , Chinese (traditional) and Chinese (simplified)
 
-For the traditional Chinese part, the team will not make a traditional Chinese version until the English version has obtained a completeness! Please forgive me.
