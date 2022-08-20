@@ -34,4 +34,4 @@ Mjolnir 團隊在研究 Mojang 帳號登入的時候，發現帳號在登入的�
 
 ## Mjolnir Launcher會支援那些語言?
 
-目前支援兩大系語言 English 與 Chinese(traditional)
+目前支援兩大系語言 English 、 Chinese(traditional) 和 Chinese (simplified)
