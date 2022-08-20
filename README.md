@@ -2,6 +2,8 @@
 [![Releases Download Count](https://img.shields.io/github/downloads/Mjolnir-Studio/Mjolnir-Launcher/total.png?&style=for-the-badge&color=Green&label=Downloads)](https://github.com/Mjolnir-Studio/Mjolnir-Launcher/releases/latest)
 [![Releases version](https://img.shields.io/github/v/release/Mjolnir-Studio/Mjolnir-Launcher.png?&style=for-the-badge&color=Green&label=releases)](https://github.com/Mjolnir-Studio/Mjolnir-Launcher/releases/latest)
 
+[official website](https://mjolnir.yomisana.xyz/)
+
 Tip: If you need the latest documentation, please try to read the traditional Chinese documentation, which will be updated more often.
 
 - 繁體中文 (目前語言)
@@ -11,7 +13,7 @@ Mjolnir Launcher 是一個配合管理伺服器插件的 Minecraft 啟動器
 
 ## 支援平台
 
-Windows
+``Windows & macOS``
 
 ## 需要支付任何費用嗎?
 
@@ -32,6 +34,4 @@ Mjolnir 團隊在研究 Mojang 帳號登入的時候，發現帳號在登入的�
 
 ## Mjolnir Launcher會支援那些語言?
 
-目前暫定僅支援兩大系語言 English 與 Chinese(traditional)
-
-繁體中文部分，因團隊在英文版本還未取得一個完整性之前不會製作繁體中文版本! 請各位多多見諒。
+目前支援兩大系語言 English 與 Chinese(traditional)
