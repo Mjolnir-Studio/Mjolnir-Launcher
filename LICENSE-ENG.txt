@@ -3,10 +3,10 @@
 
                                     Copyright 2022 Mjolnir team. All Rights Reserved.
 
-If you need Chinese(Traditional) license please refer to https://github.com/Minecraft-Mjolnir/MjolnirLauncher
-or https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/LICENSE.txt
+If you need Chinese(Traditional) license please refer to https://github.com/Mjolnir-Studio/Mjolnir-Launcher
+or https://github.com/Mjolnir-Studio/Mjolnir-Launcher/blob/main/LICENSE.txt
 
-First,We really thank you for installing and using the Mjolnir Launcher game launcher (hereinafter referred to as the "software") developed by our Mjolnir team (hereinafter referred to as the "team").
+First,We really thank you for installing and using the Mjolnir Launcher game launcher (hereinafter referred to as the "software") developed by our Mjolnir Studio (hereinafter referred to as the "team").
 
 Again statement, if you are using in a non-Republic of China area, please use this software in accordance with the laws of the place where you live!
 
