@@ -1,4 +1,5 @@
 <h1 align="center">Mjolnir Launcher🐍</h1>
+
 [![Releases Download Count](https://img.shields.io/github/downloads/Mjolnir-Studio/Mjolnir-Launcher/total.png?&style=for-the-badge&color=Green&label=Downloads)](https://github.com/Mjolnir-Studio/Mjolnir-Launcher/releases/latest)
 [![Releases version](https://img.shields.io/github/v/release/Mjolnir-Studio/Mjolnir-Launcher.png?&style=for-the-badge&color=Green&label=releases)](https://github.com/Mjolnir-Studio/Mjolnir-Launcher/releases/latest)
 
