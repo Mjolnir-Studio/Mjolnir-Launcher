@@ -14,7 +14,7 @@ Mjolnir Launcher 是一個配合管理伺服器插件的 Minecraft 啟動器
 
 ## 支援平台
 
-``Windows & macOS``
+``Windows & macOS & Linux``
 
 ## 需要支付任何費用嗎?
 
