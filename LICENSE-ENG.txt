@@ -3,8 +3,7 @@
 
                                     Copyright 2022 Mjolnir team. All Rights Reserved.
 
-If you need Chinese(Traditional) license please refer to https://github.com/Mjolnir-Studio/Mjolnir-Launcher
-or https://github.com/Mjolnir-Studio/Mjolnir-Launcher/blob/main/LICENSE.txt
+If you need Chinese(Traditional) license please refer to https://github.com/Mjolnir-Studio/Mjolnir-Launcher/blob/main/LICENSE.txt
 
 First,We really thank you for installing and using the Mjolnir Launcher game launcher (hereinafter referred to as the "software") developed by our Mjolnir Studio (hereinafter referred to as the "team").
 
@@ -31,7 +30,7 @@ Rules：
     3.It is forbidden to tamper, add code not provided by the team, and disseminate the original code not provided by the team to third parties or share it on the Internet.
     4.Some screenshots of the code contained in the error window displayed due to a programming error do not violate the prohibitions described in the preceding two terms.
     5.If an error message is report and it turns out to be a bug, the user will be assigned a special ID group if they report this issue on Mjolnir Discord.
-    6.This software can only be downloaded at https://github.com/Minecraft-Mjolnir and https://ach.yomisana.xyz/, please do not download this software claimed by other unknown sources.
+    6.This software can only be downloaded at https://github.com/Minecraft-Mjolnir , please do not download this software claimed by other unknown sources.
     7.This software will access your hard disk location [Note 1], your computer information [Note 2] and your digital account information [Note 3].
     8.This software does not charge any fees to users. However, if you do not purchase the original license of the game from Mojang AB, you will not be able to use any functions of this software.
     9.If non special unless otherwise specified, the final terms shall be subject to the matters stated in https://github.com/Minecraft-Mjolnir/MjolnirLauncher.

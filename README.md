@@ -11,11 +11,19 @@ Tip: If you need the latest documentation, please try to read the traditional Ch
 - 繁體中文 (目前語言)
 - [English](https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/README-eng.md)
 
-Mjolnir Launcher 是一個配合管理伺服器插件的 Minecraft 啟動器
+Mjolnir Launcher 是一個配合自家研發的伺服器插件的 Minecraft 啟動器
 
 ## 支援平台
 
 ``Windows & macOS & Linux``
+
+### 安裝檔說明:
+macOS: 使用 dmg 來安裝啟動器
+Windows: 使用 exe 來安裝啟動器
+Linux: 使用 AppImage 來安裝啟動器
+
+## 可以安裝第三方版本嗎? 例如: forge 與 fabric
+我們的啟動器支援您使用 forge 與 fabric 或是 Optifine ，其他的第三方版本可能會遇到安裝上的錯誤!
 
 ## 需要支付任何費用嗎?
 
@@ -36,4 +44,4 @@ Mjolnir 團隊在研究 Mojang 帳號登入的時候，發現帳號在登入的�
 
 ## Mjolnir Launcher會支援那些語言?
 
-目前支援兩大系語言 English 、 Chinese(traditional) 和 Chinese (simplified)
+目前支援兩大系語言 English 、 Chinese(traditional | 繁體中文) 和 Chinese (simplified | 简体中文)

@@ -6,14 +6,24 @@
 
 [official website](https://mjolnir.yomisana.xyz/)
 
+Tip: If you need the latest documentation, please try to read the traditional Chinese documentation, which will be updated more often.
+
 - [繁體中文](https://github.com/Minecraft-Mjolnir/Mjolnir-Launcher/blob/main/README.md)
 - English (Current Language)
 
-Mjolnir Launcher is a Minecraft launcher that works with the Manage Server plugin
+Mjolnir Launcher is a Minecraft launcher that works in conjunction with our proprietary server plugin.
 
 ## Supported Platforms
 
-``Windows & macOS``
+``Windows & macOS & Linux``
+
+### Installation file description
+macOS: use dmg to install the launcher
+Windows: use exe to install the launcher
+Linux: Use AppImage to install the launcher
+
+## Can I install a third-party version? Example: forge and fabric
+Our launcher supports you to use forge and fabric or Optifine, other third-party versions may encounter installation errors!
 
 ## Do I need to pay any fees?
 
@@ -35,5 +45,5 @@ You can also go to our Discord to create a ticket to raise your questions, bugs 
 
 ## Which languages will Mjolnir Launcher support?
 
-Currently are support: English , Chinese (traditional) and Chinese (simplified)
+Currently are support: English 、 Chinese(traditional | 繁體中文) 和 Chinese (simplified | 简体中文)
 
